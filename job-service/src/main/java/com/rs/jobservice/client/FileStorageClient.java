@@ -1,4 +1,4 @@
-package com.safalifter.jobservice.client;
+package com.rs.jobservice.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.MediaType;

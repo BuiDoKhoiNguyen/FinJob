@@ -1,4 +1,4 @@
-package com.safalifter.filestorage.model;
+package com.rs.filestorage.model;
 
 import lombok.*;
 

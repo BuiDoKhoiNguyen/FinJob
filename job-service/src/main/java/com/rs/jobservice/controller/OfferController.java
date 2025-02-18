@@ -1,9 +1,9 @@
-package com.safalifter.jobservice.controller;
+package com.rs.jobservice.controller;
 
-import com.safalifter.jobservice.dto.OfferDto;
-import com.safalifter.jobservice.request.offer.MakeAnOfferRequest;
-import com.safalifter.jobservice.request.offer.OfferUpdateRequest;
-import com.safalifter.jobservice.service.OfferService;
+import com.rs.jobservice.dto.OfferDto;
+import com.rs.jobservice.request.offer.MakeAnOfferRequest;
+import com.rs.jobservice.request.offer.OfferUpdateRequest;
+import com.rs.jobservice.service.OfferService;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.http.HttpStatus;

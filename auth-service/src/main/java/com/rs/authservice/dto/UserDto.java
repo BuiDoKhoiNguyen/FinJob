@@ -1,6 +1,6 @@
-package com.safalifter.authservice.dto;
+package com.rs.authservice.dto;
 
-import com.safalifter.authservice.enums.Role;
+import com.rs.authservice.enums.Role;
 import lombok.Data;
 
 @Data

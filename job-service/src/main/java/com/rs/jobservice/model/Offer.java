@@ -1,6 +1,6 @@
-package com.safalifter.jobservice.model;
+package com.rs.jobservice.model;
 
-import com.safalifter.jobservice.enums.OfferStatus;
+import com.rs.jobservice.enums.OfferStatus;
 import lombok.*;
 
 import javax.persistence.*;

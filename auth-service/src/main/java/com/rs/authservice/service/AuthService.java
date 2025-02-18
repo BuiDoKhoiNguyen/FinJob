@@ -1,11 +1,11 @@
-package com.safalifter.authservice.service;
+package com.rs.authservice.service;
 
-import com.safalifter.authservice.client.UserServiceClient;
-import com.safalifter.authservice.dto.RegisterDto;
-import com.safalifter.authservice.dto.TokenDto;
-import com.safalifter.authservice.exc.WrongCredentialsException;
-import com.safalifter.authservice.request.LoginRequest;
-import com.safalifter.authservice.request.RegisterRequest;
+import com.rs.authservice.client.UserServiceClient;
+import com.rs.authservice.dto.RegisterDto;
+import com.rs.authservice.dto.TokenDto;
+import com.rs.authservice.exc.WrongCredentialsException;
+import com.rs.authservice.request.LoginRequest;
+import com.rs.authservice.request.RegisterRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

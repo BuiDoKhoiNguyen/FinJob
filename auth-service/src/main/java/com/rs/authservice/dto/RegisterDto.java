@@ -1,4 +1,4 @@
-package com.safalifter.authservice.dto;
+package com.rs.authservice.dto;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.safalifter.authservice.exc;
+package com.rs.authservice.exc;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

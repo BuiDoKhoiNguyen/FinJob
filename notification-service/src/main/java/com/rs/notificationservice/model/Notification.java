@@ -1,4 +1,4 @@
-package com.safalifter.notificationservice.model;
+package com.rs.notificationservice.model;
 
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

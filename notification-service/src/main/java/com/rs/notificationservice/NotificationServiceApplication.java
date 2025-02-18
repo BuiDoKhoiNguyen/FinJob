@@ -1,4 +1,4 @@
-package com.safalifter.notificationservice;
+package com.rs.notificationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

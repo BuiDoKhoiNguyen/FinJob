@@ -1,6 +1,6 @@
-package com.safalifter.authservice.service;
+package com.rs.authservice.service;
 
-import com.safalifter.authservice.dto.UserDto;
+import com.rs.authservice.dto.UserDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

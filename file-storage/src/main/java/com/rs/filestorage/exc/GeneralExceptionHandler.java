@@ -1,4 +1,4 @@
-package com.safalifter.filestorage.exc;
+package com.rs.filestorage.exc;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

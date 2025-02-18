@@ -1,4 +1,4 @@
-package com.safalifter.authservice.service;
+package com.rs.authservice.service;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

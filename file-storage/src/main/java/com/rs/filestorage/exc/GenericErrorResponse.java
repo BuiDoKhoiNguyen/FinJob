@@ -1,4 +1,4 @@
-package com.safalifter.filestorage.exc;
+package com.rs.filestorage.exc;
 
 import lombok.Builder;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.safalifter.authservice.enums;
+package com.rs.authservice.enums;
 
 public enum Role {
     ADMIN, USER

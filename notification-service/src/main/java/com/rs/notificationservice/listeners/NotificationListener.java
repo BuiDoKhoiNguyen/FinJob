@@ -1,7 +1,7 @@
-package com.safalifter.notificationservice.listeners;
+package com.rs.notificationservice.listeners;
 
-import com.safalifter.notificationservice.request.SendNotificationRequest;
-import com.safalifter.notificationservice.service.NotificationService;
+import com.rs.notificationservice.request.SendNotificationRequest;
+import com.rs.notificationservice.service.NotificationService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.KafkaListener;

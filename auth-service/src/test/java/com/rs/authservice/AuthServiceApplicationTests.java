@@ -1,13 +1,13 @@
-package com.safalifter.filestorage;
+package com.rs.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FileStorageApplicationTests {
+class AuthServiceApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }

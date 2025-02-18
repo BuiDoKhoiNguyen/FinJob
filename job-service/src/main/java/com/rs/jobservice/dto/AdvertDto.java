@@ -1,8 +1,8 @@
-package com.safalifter.jobservice.dto;
+package com.rs.jobservice.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.safalifter.jobservice.enums.AdvertStatus;
-import com.safalifter.jobservice.enums.Advertiser;
+import com.rs.jobservice.enums.AdvertStatus;
+import com.rs.jobservice.enums.Advertiser;
 import lombok.Data;
 
 import java.util.List;

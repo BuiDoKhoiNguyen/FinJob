@@ -1,4 +1,4 @@
-package com.safalifter.jobservice.model;
+package com.rs.jobservice.model;
 
 import lombok.*;
 

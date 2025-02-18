@@ -1,10 +1,10 @@
-package com.safalifter.jobservice.controller;
+package com.rs.jobservice.controller;
 
-import com.safalifter.jobservice.dto.CategoryDto;
-import com.safalifter.jobservice.dto.JobDto;
-import com.safalifter.jobservice.request.category.CategoryCreateRequest;
-import com.safalifter.jobservice.request.category.CategoryUpdateRequest;
-import com.safalifter.jobservice.service.CategoryService;
+import com.rs.jobservice.dto.CategoryDto;
+import com.rs.jobservice.dto.JobDto;
+import com.rs.jobservice.request.category.CategoryCreateRequest;
+import com.rs.jobservice.request.category.CategoryUpdateRequest;
+import com.rs.jobservice.service.CategoryService;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.http.HttpStatus;

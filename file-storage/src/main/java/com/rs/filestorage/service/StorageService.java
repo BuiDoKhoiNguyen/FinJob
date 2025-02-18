@@ -1,8 +1,8 @@
-package com.safalifter.filestorage.service;
+package com.rs.filestorage.service;
 
-import com.safalifter.filestorage.exc.GenericErrorResponse;
-import com.safalifter.filestorage.model.File;
-import com.safalifter.filestorage.repository.FileRepository;
+import com.rs.filestorage.exc.GenericErrorResponse;
+import com.rs.filestorage.model.File;
+import com.rs.filestorage.repository.FileRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

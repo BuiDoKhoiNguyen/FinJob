@@ -1,10 +1,10 @@
-package com.safalifter.notificationservice;
+package com.rs.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NotificationServiceApplicationTests {
+class GatewayApplicationTests {
 
 	@Test
 	void contextLoads() {

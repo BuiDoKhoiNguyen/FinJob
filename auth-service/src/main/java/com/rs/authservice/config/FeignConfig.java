@@ -1,6 +1,6 @@
-package com.safalifter.authservice.config;
+package com.rs.authservice.config;
 
-import com.safalifter.authservice.client.CustomErrorDecoder;
+import com.rs.authservice.client.CustomErrorDecoder;
 import feign.codec.ErrorDecoder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

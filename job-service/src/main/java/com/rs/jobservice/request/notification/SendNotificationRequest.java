@@ -1,4 +1,4 @@
-package com.safalifter.jobservice.request.notification;
+package com.rs.jobservice.request.notification;
 
 import lombok.Builder;
 import lombok.Data;

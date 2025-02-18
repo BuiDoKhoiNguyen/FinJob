@@ -1,6 +1,6 @@
-package com.safalifter.filestorage.controller;
+package com.rs.filestorage.controller;
 
-import com.safalifter.filestorage.service.StorageService;
+import com.rs.filestorage.service.StorageService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

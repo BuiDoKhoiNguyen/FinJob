@@ -1,9 +1,9 @@
-package com.safalifter.jobservice.controller;
+package com.rs.jobservice.controller;
 
-import com.safalifter.jobservice.dto.JobDto;
-import com.safalifter.jobservice.request.job.JobCreateRequest;
-import com.safalifter.jobservice.request.job.JobUpdateRequest;
-import com.safalifter.jobservice.service.JobService;
+import com.rs.jobservice.dto.JobDto;
+import com.rs.jobservice.request.job.JobCreateRequest;
+import com.rs.jobservice.request.job.JobUpdateRequest;
+import com.rs.jobservice.service.JobService;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.http.HttpStatus;

@@ -1,10 +1,10 @@
-package com.safalifter.jobservice.controller;
+package com.rs.jobservice.controller;
 
-import com.safalifter.jobservice.dto.AdvertDto;
-import com.safalifter.jobservice.enums.Advertiser;
-import com.safalifter.jobservice.request.advert.AdvertCreateRequest;
-import com.safalifter.jobservice.request.advert.AdvertUpdateRequest;
-import com.safalifter.jobservice.service.AdvertService;
+import com.rs.jobservice.dto.AdvertDto;
+import com.rs.jobservice.enums.Advertiser;
+import com.rs.jobservice.request.advert.AdvertCreateRequest;
+import com.rs.jobservice.request.advert.AdvertUpdateRequest;
+import com.rs.jobservice.service.AdvertService;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.http.HttpStatus;

@@ -1,7 +1,7 @@
-package com.safalifter.jobservice.dto;
+package com.rs.jobservice.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.safalifter.jobservice.enums.OfferStatus;
+import com.rs.jobservice.enums.OfferStatus;
 import lombok.Data;
 
 @Data

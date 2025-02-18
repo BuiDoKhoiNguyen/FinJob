@@ -1,7 +1,7 @@
-package com.safalifter.authservice.service;
+package com.rs.authservice.service;
 
 
-import com.safalifter.authservice.client.UserServiceClient;
+import com.rs.authservice.client.UserServiceClient;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

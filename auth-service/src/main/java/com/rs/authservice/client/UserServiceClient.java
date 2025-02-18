@@ -1,8 +1,8 @@
-package com.safalifter.authservice.client;
+package com.rs.authservice.client;
 
-import com.safalifter.authservice.dto.RegisterDto;
-import com.safalifter.authservice.dto.UserDto;
-import com.safalifter.authservice.request.RegisterRequest;
+import com.rs.authservice.dto.RegisterDto;
+import com.rs.authservice.dto.UserDto;
+import com.rs.authservice.request.RegisterRequest;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

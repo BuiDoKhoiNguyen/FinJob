@@ -1,11 +1,11 @@
-package com.safalifter.jobservice.service;
+package com.rs.jobservice.service;
 
-import com.safalifter.jobservice.client.FileStorageClient;
-import com.safalifter.jobservice.exc.NotFoundException;
-import com.safalifter.jobservice.model.Category;
-import com.safalifter.jobservice.repository.CategoryRepository;
-import com.safalifter.jobservice.request.category.CategoryCreateRequest;
-import com.safalifter.jobservice.request.category.CategoryUpdateRequest;
+import com.rs.jobservice.client.FileStorageClient;
+import com.rs.jobservice.exc.NotFoundException;
+import com.rs.jobservice.model.Category;
+import com.rs.jobservice.repository.CategoryRepository;
+import com.rs.jobservice.request.category.CategoryCreateRequest;
+import com.rs.jobservice.request.category.CategoryUpdateRequest;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;

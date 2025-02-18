@@ -1,4 +1,4 @@
-package com.safalifter.authservice.request;
+package com.rs.authservice.request;
 
 import lombok.Getter;
 

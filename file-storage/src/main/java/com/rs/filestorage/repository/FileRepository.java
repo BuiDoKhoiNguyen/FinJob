@@ -1,6 +1,6 @@
-package com.safalifter.filestorage.repository;
+package com.rs.filestorage.repository;
 
-import com.safalifter.filestorage.model.File;
+import com.rs.filestorage.model.File;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface FileRepository extends JpaRepository<File, String> {

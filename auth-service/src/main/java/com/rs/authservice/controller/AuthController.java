@@ -1,10 +1,10 @@
-package com.safalifter.authservice.controller;
+package com.rs.authservice.controller;
 
-import com.safalifter.authservice.dto.RegisterDto;
-import com.safalifter.authservice.dto.TokenDto;
-import com.safalifter.authservice.request.LoginRequest;
-import com.safalifter.authservice.request.RegisterRequest;
-import com.safalifter.authservice.service.AuthService;
+import com.rs.authservice.dto.RegisterDto;
+import com.rs.authservice.dto.TokenDto;
+import com.rs.authservice.request.LoginRequest;
+import com.rs.authservice.request.RegisterRequest;
+import com.rs.authservice.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

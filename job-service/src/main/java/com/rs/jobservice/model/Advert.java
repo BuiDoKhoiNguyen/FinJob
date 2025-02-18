@@ -1,7 +1,7 @@
-package com.safalifter.jobservice.model;
+package com.rs.jobservice.model;
 
-import com.safalifter.jobservice.enums.AdvertStatus;
-import com.safalifter.jobservice.enums.Advertiser;
+import com.rs.jobservice.enums.AdvertStatus;
+import com.rs.jobservice.enums.Advertiser;
 import lombok.*;
 
 import javax.persistence.*;

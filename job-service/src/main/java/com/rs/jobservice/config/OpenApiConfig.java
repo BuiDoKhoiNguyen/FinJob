@@ -1,4 +1,4 @@
-package com.safalifter.jobservice.config;
+package com.rs.jobservice.config;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;

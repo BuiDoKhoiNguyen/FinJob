@@ -1,6 +1,6 @@
-package com.safalifter.gateway.filter;
+package com.rs.gateway.filter;
 
-import com.safalifter.gateway.util.JwtUtil;
+import com.rs.gateway.util.JwtUtil;
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
 import org.springframework.http.HttpStatus;

@@ -1,13 +1,13 @@
-package com.safalifter.jobservice;
+package com.rs.filestorage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JobServiceApplicationTests {
+class FileStorageApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }

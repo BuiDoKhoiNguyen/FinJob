@@ -1,4 +1,4 @@
-package com.safalifter.jobservice.exc;
+package com.rs.jobservice.exc;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

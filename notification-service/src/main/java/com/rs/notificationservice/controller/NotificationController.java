@@ -1,7 +1,7 @@
-package com.safalifter.notificationservice.controller;
+package com.rs.notificationservice.controller;
 
-import com.safalifter.notificationservice.model.Notification;
-import com.safalifter.notificationservice.service.NotificationService;
+import com.rs.notificationservice.model.Notification;
+import com.rs.notificationservice.service.NotificationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

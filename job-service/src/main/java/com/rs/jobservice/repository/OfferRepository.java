@@ -1,6 +1,6 @@
-package com.safalifter.jobservice.repository;
+package com.rs.jobservice.repository;
 
-import com.safalifter.jobservice.model.Offer;
+import com.rs.jobservice.model.Offer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

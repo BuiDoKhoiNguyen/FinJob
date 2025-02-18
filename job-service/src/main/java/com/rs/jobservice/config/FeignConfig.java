@@ -1,6 +1,6 @@
-package com.safalifter.jobservice.config;
+package com.rs.jobservice.config;
 
-import com.safalifter.jobservice.client.CustomErrorDecoder;
+import com.rs.jobservice.client.CustomErrorDecoder;
 import feign.codec.ErrorDecoder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
